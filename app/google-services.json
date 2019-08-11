@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "664212687936",
+    "firebase_url": "https://keyboard-f2b83.firebaseio.com",
+    "project_id": "keyboard-f2b83",
+    "storage_bucket": "keyboard-f2b83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664212687936:android:301e0161fda41e45",
+        "android_client_info": {
+          "package_name": "com.szrl.tomasz.typingmaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664212687936-2qparc1ftthkamk93btbj5tbjdejifm2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.szrl.tomasz.typingmaster",
+            "certificate_hash": "e2e5976f593441b83cab19f5c7b2c7eb35f8e256"
+          }
+        },
+        {
+          "client_id": "664212687936-uq3h64o92enc7k3dj75nr9innaf5r1e9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQg7nabhXM_wfSL8JSxY6kWNV5TE2Q4nU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664212687936-uq3h64o92enc7k3dj75nr9innaf5r1e9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

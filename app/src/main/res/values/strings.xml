@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TypingMaster</string>
+    <string name="start_button">Start</string>
+    <string name="label_name">TypingMaster</string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="login_log">login...</string>
+    <string name="password_log">password...</string>
+    <string name="accept_log">LOGIN</string>
+    <string name="label_log">Login</string>
+    <string name="to_reg_log">Click to register</string>
+    <!-- Strings related to register -->
+    <string name="login_reg">login...</string>
+    <string name="password_reg">password...</string>
+    <string name="accept_reg">REGISTER</string>
+    <string name="label_reg">Register</string>
+    <string name="to_log_reg">Click to login</string>
+    <!-- Menu strings -->
+    <string name="menu_label">MENU</string>
+</resources>
