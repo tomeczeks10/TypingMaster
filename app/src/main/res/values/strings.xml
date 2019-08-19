@@ -17,4 +17,11 @@
     <string name="to_log_reg">Click to login</string>
     <!-- Menu strings -->
     <string name="menu_label">MENU</string>
+    <string name="menu_start">Start</string>
+    <string name="menu_database">Database</string>
+    <string name="menu_logout">Logout</string>
+    <!-- Database strings -->
+    <string name="data_label">Add to database</string>
+    <string name="data_text_holder">Put text here...</string>
+    <string name="data_submit">Submit</string>
 </resources>
